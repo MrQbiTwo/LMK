@@ -1,0 +1,9 @@
+This kernel requires proprietary, closed-source blobs to operate, provided exclusively in binary executable format to maintain confidentiality.
+
+Blobs are a binary executable set of drivers and settings for running on specific components.
+
+These blobs belong exclusively to the vendor (developer company) that created them.
+
+This kernel does not contain them in the code, but requires them for operation on a specific device.
+
+We assume no legal liability for their use.
